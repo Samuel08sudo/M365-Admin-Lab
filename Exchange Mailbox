@@ -1,20 +1,25 @@
-# Email Not Receiving Issue (Exchange Online)
+# Microsoft 365 Admin Lab
 
-## Problem
-User reported not receiving emails.
+## Overview
+This project simulates real-world IT support tasks performed in a Microsoft 365 environment. It demonstrates hands-on experience with user management, license administration, and email troubleshooting — core responsibilities of a Tier 1 IT Support Technician.
 
-## Diagnosis
-Checked user account in Microsoft 365 Admin Center:
-- User account active
-- License not assigned
+## Skills Demonstrated
+- User provisioning and account management
+- License assignment and troubleshooting
+- Password reset and account recovery
+- Microsoft 365 Exchange mailbox management
+- IT issue diagnosis and resolution
 
-## Root Cause
-Mailbox was inactive due to missing Microsoft 365 license.
+## Scenarios Covered
+- User account creation and configuration
+- License removal causing email failure (issue simulation and fix)
+- Password reset request handling
+- Email delivery troubleshooting
+- New employee onboarding
 
-## Resolution
-Assigned Microsoft 365 license to user via Admin Center.
+## Tools Used
+- Microsoft 365 Admin Center
+- Exchange Admin Center
 
-## Result
-Mailbox reactivated and email delivery restored successfully.
-
-![Exchange_Mailbox](Screenshots/exchange_mailbox.png)
+## Outcome
+Successfully simulated multiple real-world IT support scenarios, demonstrating readiness for entry-level IT Support and Help Desk roles.
