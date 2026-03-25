@@ -5,8 +5,8 @@ User reported not receiving emails.
 
 ## Diagnosis
 Checked user account in Microsoft 365 Admin Center:
-- User account active
-- License not assigned
+1. User account active
+2. License not assigned
 
 ## Root Cause
 Mailbox was inactive due to missing Microsoft 365 license.
