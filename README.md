@@ -24,3 +24,9 @@ This project simulates real-world IT support tasks performed in a Microsoft 365 
 
 ## Outcome
 Successfully simulated multiple real-world IT support scenarios, demonstrating readiness for entry-level IT Support and Help Desk roles.
+
+## Key Learnings
+- Understood how Microsoft 365 licensing directly impacts user access and services
+- Learned structured troubleshooting approach used in IT support environments
+- Gained hands-on experience with Exchange Online mailbox management
+- Improved ability to diagnose and resolve real-world IT issues
